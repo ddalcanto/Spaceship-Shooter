@@ -13,4 +13,4 @@ Code Mockup
 
 <img width="605" alt="spaceshipguiclass" src="https://user-images.githubusercontent.com/26355832/36710198-99f6ff7c-1b39-11e8-84c1-eb8837532995.PNG">
 
-This project was made in collaberation with Nate Payne, Nicholas Gonzalez, Silvio Santini, and Sam Burnham
+This project was made in collaberation with Nate Payne, Nicholas Gonzalez, and Silvio Santini
