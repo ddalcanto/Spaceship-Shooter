@@ -15,4 +15,4 @@ Code Mockup-
 
 This game was produced in just a few weeks by a group of 4 students. It includes many conceps like collision detection, timers, a score system, a randomly spawning powerup, and lasers with varying firing speed
 
-#This project was made in collaberation with Nate Payne, Nicholas Gonzalez, and Silvio Santini
+*This project was made in collaberation with Nate Payne, Nicholas Gonzalez, and Silvio Santini*
