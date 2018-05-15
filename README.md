@@ -14,4 +14,13 @@ Code Mockup-
 <img width="605" alt="spaceshipguiclass" src="https://user-images.githubusercontent.com/26355832/36710198-99f6ff7c-1b39-11e8-84c1-eb8837532995.PNG">
 
 v. 2.0
--added test
+
+- Added unique a death screen, winning screen, second level screen, and alternate starting screen if you've already failed once before
+
+- Added an additional enemy duing the second level
+
+- Made the game beatable 
+
+- Fixed verticle collision detection
+
+- Fixed Framerate Issues
