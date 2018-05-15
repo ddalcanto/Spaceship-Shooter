@@ -13,6 +13,5 @@ Code Mockup-
 
 <img width="605" alt="spaceshipguiclass" src="https://user-images.githubusercontent.com/26355832/36710198-99f6ff7c-1b39-11e8-84c1-eb8837532995.PNG">
 
-This game was produced in just a few weeks by a group of 4 students. It includes many conceps like collision detection, timers, a score system, a randomly spawning powerup, and lasers with varying firing speed
-
-*This project was made in collaberation with Nate Payne, Nicholas Gonzalez, and Silvio Santini*
+v. 2.0
+-added test
