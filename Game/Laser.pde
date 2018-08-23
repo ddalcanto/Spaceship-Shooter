@@ -9,7 +9,7 @@ class Laser {
     r = 4; 
     this.x = x; 
     this.y = y; 
-    speed = random(5, 30);
+    speed = random(5,30);
   }
 
   void fire() {

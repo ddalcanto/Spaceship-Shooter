@@ -9,10 +9,10 @@ class Ship {
     this.y = y;
     this.w = w;
     this.h = h;
+    img = loadImage("PurpleSpaceship.png");
   }
 
   void display() {
-    img = loadImage("PurpleSpaceship.png");
     image(img, x, y, w, h);
   }
 
